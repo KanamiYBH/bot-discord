@@ -22,7 +22,7 @@ with pre-configured commands, events, and best practices.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DandeliMu/bot-discord
+   git clone https://github.com/KanamiYBH/bot-discord
    cd bot-discord
    ```
 2. Install dependencies:
