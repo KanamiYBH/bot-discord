@@ -47,7 +47,6 @@ Commands are stored in the `commands` folder. Each command follows this structur
 const { SlashCommandBuilder } = require("discord.js");
 
 module.exports = {
-    category: 'category',
     data: new SlashCommandBuilder()
         .setName('command-name')
         .setDescription('command-description'),
