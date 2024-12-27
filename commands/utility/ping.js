@@ -1,7 +1,6 @@
 const { SlashCommandBuilder } = require("discord.js");
 
 module.exports = {
-    category: 'utility',
     data: new SlashCommandBuilder()
         .setName('ping')
         .setDescription('Cek apakah bot online'),
