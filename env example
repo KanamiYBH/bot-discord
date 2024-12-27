@@ -1,2 +1,6 @@
 TOKEN=
 BOT_ID=
+
+# DB
+MONGO_DB_URI=""
+MONGO_DB_NAME=""
